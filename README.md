@@ -1,5 +1,5 @@
 # Alexa-Skill
-We imported the Jar Libraries and they are added to Referenced Libraries but i can't see them here.
+We imported the Jar Libraries and they are added to Referenced Libraries but i can't see them here(Just added them manually here).
 
 We added the Dependencies to the pom.xml but we still get the Following Errors.
 
