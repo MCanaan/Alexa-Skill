@@ -1,0 +1,7 @@
+com\amazon\customskill\AlexaServlet.class
+com\amazon\customskill\AlexaSkillSpeechlet.class
+com\amazon\customskill\Translator.class
+com\amazon\customskill\Example.class
+com\amazon\customskill\AlexaSkillSpeechlet$1.class
+com\amazon\customskill\AlexaSkillSpeechlet$UserIntent.class
+com\amazon\customskill\AlexaSkillSpeechlet$RecognitionState.class
